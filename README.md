@@ -1,5 +1,4 @@
-# 🌦️ Weather API Wrapper
-
+# 🌦️ ([Weather API Wrapper](https://github.com/kendunothing/WeatherAPITest))
 Một RESTful API được xây dựng bằng **Python (Flask)** đóng vai trò trung gian (wrapper) lấy dữ liệu thời tiết từ dịch vụ bên thứ ba ([Visual Crossing API](https://www.visualcrossing.com/weather-api)), kết hợp cơ chế lưu trữ đệm **Redis Cache (Cache-Aside Pattern)** và kiểm soát tần suất truy cập **Rate Limiting**.
 
 ---
