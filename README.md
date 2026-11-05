@@ -188,4 +188,5 @@ GET http://localhost:5002/weather?city=Hanoi
 
 ## Link project
 - https://github.com/kendunothing/WeatherAPITest
+- https://roadmap.sh/projects/weather-api-wrapper-service
 
