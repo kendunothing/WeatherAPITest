@@ -186,3 +186,6 @@ GET http://localhost:5002/weather?city=Hanoi
 - **HTTP Client:** `requests`
 - **Quản lý cấu hình:** `python-dotenv`
 
+## Link project
+- https://github.com/kendunothing/WeatherAPITest
+
